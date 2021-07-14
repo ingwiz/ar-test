@@ -1,0 +1,2 @@
+[web]
+server1 ansible_ssh_host=192.168.29.11 ansible_ssh_user=root

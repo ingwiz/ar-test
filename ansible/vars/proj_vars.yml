@@ -1,0 +1,7 @@
+---
+# my vars
+
+remote_install_path: /root/docker
+app_container_name: my-web-app
+app_image_name: app-img:1
+
